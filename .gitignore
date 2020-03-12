@@ -1,0 +1,16 @@
+*/._.*
+*.DS_Store
+site
+/build
+*.data
+**/.Archive
+.Rproj.user
+.Rhistory
+.RData
+.ipynb_checkpoints/
+other
+.spyproject/
+unimelb_training.csv
+CreateGrantData.R
+grantData.RData
+.vscode/
