@@ -1,21 +1,3 @@
 # ESL-CN 
 
 The Elements of Statistical Learning (ESL)
-
-- [![](https://img.shields.io/badge/solution-chapter%202-blue.svg)](https://github.com/szcf-weiya/ESL-CN/milestone/7) 
-- [![](https://img.shields.io/badge/solution-chapter%203-blue.svg)](https://github.com/szcf-weiya/ESL-CN/milestone/2)
-- [![](https://img.shields.io/badge/solution-chapter%204-blue.svg)](https://github.com/szcf-weiya/ESL-CN/milestone/12)
-- [![](https://img.shields.io/badge/solution-chapter%205-blue.svg)](https://github.com/szcf-weiya/ESL-CN/milestone/6)
-- [![](https://img.shields.io/badge/solution-chapter%206-blue.svg)](https://github.com/szcf-weiya/ESL-CN/milestone/14)
-- [![](https://img.shields.io/badge/solution-chapter%207-blue.svg)](https://github.com/szcf-weiya/ESL-CN/milestone/4)
-- [![](https://img.shields.io/badge/solution-chapter%208-blue.svg)](https://github.com/szcf-weiya/ESL-CN/milestone/17)
-- [![](https://img.shields.io/badge/solution-chapter%209-blue.svg)](https://github.com/szcf-weiya/ESL-CN/milestone/15)
-- [![](https://img.shields.io/badge/solution-chapter%2010-blue.svg)](https://github.com/szcf-weiya/ESL-CN/milestone/1)
-- [![](https://img.shields.io/badge/solution-chapter%2011-blue.svg)](https://github.com/szcf-weiya/ESL-CN/milestone/18)
-- [![](https://img.shields.io/badge/solution-chapter%2012-blue.svg)](https://github.com/szcf-weiya/ESL-CN/milestone/3)
-- [![](https://img.shields.io/badge/solution-chapter%2013-blue.svg)](https://github.com/szcf-weiya/ESL-CN/milestone/19)
-- [![](https://img.shields.io/badge/solution-chapter%2014-blue.svg)](https://github.com/szcf-weiya/ESL-CN/milestone/5)
-- [![](https://img.shields.io/badge/solution-chapter%2015-blue.svg)](https://github.com/szcf-weiya/ESL-CN/milestone/16)
-- [![](https://img.shields.io/badge/solution-chapter%2016-blue.svg)](https://github.com/szcf-weiya/ESL-CN/milestone/21)
-- [![](https://img.shields.io/badge/solution-chapter%2017-blue.svg)](https://github.com/szcf-weiya/ESL-CN/milestone/20)
-- [![](https://img.shields.io/badge/solution-chapter%2018-blue.svg)](https://github.com/szcf-weiya/ESL-CN/milestone/13)
